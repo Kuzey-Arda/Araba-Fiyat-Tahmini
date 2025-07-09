@@ -1,7 +1,9 @@
 # Araba Fiyat Tahmin Modeli
 
+
 ## 👨‍💻 Uygulama Hakkında
 Bu uygulama 2. el araba fiyatları üzerine eğitilmiş bir modeli kullanarak verilen aracın özelliklerine göre fiyat tahmininde bulunur.
+
 
 ## 🧰 Languages & Tools
 
