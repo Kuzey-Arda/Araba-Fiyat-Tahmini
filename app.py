@@ -92,7 +92,7 @@ def update_types(selected_make, selected_model, selected_trim):
 
 # Gradio arayüzü
 with gr.Blocks(theme=gr.themes.Soft()) as demo:
-    gr.Markdown("# 🚗 Fiyat Tahmin Uygulaması @drmurataltun")
+    gr.Markdown("# 🚗 Araba Fiyatı Tahmin Uygulaması")
     gr.Markdown("Araba fiyatı tahmini için aşağıdaki bilgileri giriniz:")
 
     with gr.Row():
